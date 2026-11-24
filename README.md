@@ -31,3 +31,7 @@ Local development server: the app is served locally at 127.0.0.1 for testing
 AI-assisted development: [tool name], used for [generating code / debugging / design iteration]
 
 ![alt text](/Users/noggin/Documents/workspace/FLASHCARD APP/assets/images/demo)
+
+###deployed site
+
+https://nogg1n.github.io/ai-se_project_flashcards/index.html
